@@ -3,3 +3,6 @@ server:
 eureka: 
   clinet:
     registerWithEureka: false
+spring:
+  application:
+    name: server-eureka01
